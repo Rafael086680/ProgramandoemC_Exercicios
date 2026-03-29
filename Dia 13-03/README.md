@@ -1,4 +1,4 @@
-**📚 Exercícios de Programação em C**
+**Exercícios de Programação em C**
 
 Este repositório contém uma série de exercícios desenvolvidos em **Linguagem C**, propostos pelo professor **Manfred** na disciplina de **Fundamentos de Programação**.  
 O objetivo desses exercícios é praticar conceitos básicos de programação, como **entrada e saída de dados, operações matemáticas, lógica de programação e manipulação de variáveis**.
