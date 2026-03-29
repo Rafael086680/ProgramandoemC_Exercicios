@@ -14,7 +14,7 @@ Caso a opção informada seja inválida, o programa deve exibir uma mensagem de 
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+int main(void) {
     float num1, num2, resultado;
     int opcao;
 
