@@ -13,7 +13,7 @@ R.:
 
 #include <stdio.h>
 
-int main() {
+int main(void) {
     int num;
 
     printf("Digite um numero de 1 a 7: ");
