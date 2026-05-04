@@ -8,7 +8,7 @@ R.:
 */ 
 #include <stdio.h> 
 #include <stdlib.h> 
- 
+  
 int main(void){ 
 	// variáveis
 	int numero, maior, menor;
