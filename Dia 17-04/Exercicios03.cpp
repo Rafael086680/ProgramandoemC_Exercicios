@@ -4,7 +4,7 @@ e determine qual é o maior e qual é o menor valor
 informado. Ao final, o programa deve calcular 
 e mostrar a diferença entre o maior e o menor 
 número do conjunto.
-R.:
+R.: 
 */ 
 #include <stdio.h> 
 #include <stdlib.h> 
