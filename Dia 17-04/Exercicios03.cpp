@@ -6,7 +6,7 @@ e mostrar a diferença entre o maior e o menor
 número do conjunto.
 R.:
 */
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdlib.h> 
 
 int main(void){
