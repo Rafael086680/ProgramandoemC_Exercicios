@@ -5,7 +5,7 @@ informado. Ao final, o programa deve calcular
 e mostrar a diferença entre o maior e o menor 
 número do conjunto.
 R.:
-*/
+*/ 
 #include <stdio.h> 
 #include <stdlib.h> 
  
