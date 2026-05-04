@@ -11,7 +11,7 @@ R.:
   
 int main(void){ 
 	// variáveis
-	int numero, maior, menor;
+	int numero, maior, menor; 
 	
 	// entrada
 	for(int i=1;i<=10;i++){
